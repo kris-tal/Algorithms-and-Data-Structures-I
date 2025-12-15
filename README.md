@@ -1,5 +1,5 @@
 # Algorithms-and-Data-Structures-I
-Coursework for Concurrent Programming (2025/26) at Jagiellonian University, Theoretical Computer Science.
+Coursework for Algorithms & Data Structures (2024/25) at Jagiellonian University, Theoretical Computer Science.
 ___
 
 ## Dynamic Programming
