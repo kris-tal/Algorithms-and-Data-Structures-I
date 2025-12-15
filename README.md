@@ -3,10 +3,28 @@ Coursework for Algorithms & Data Structures (2024/25) at Jagiellonian University
 ___
 
 ## Dynamic Programming
+* Knapsack Problem (0/1 & Unbounded) with Solution Reconstruction
+* Longest Common Subsequence (LCS)
+* Longest Increasing Subsequence (LIS, LDS, LNIS)
 
-## Greedy algorithms
+## Graph Algorithms
+* Topological Sort
+* Articulation Points & Bridges
+* 2-SAT (2-Satisfiability)
 
-## Graph algorithms
+## Shortest Paths
+* Dijkstra's Algorithm
+* Bellman-Ford Algorithm
+* Floyd-Warshall Algorithm
+* Johnson's Algorithm
+
+## Minimum Spanning Trees (MST) & Sets
+* Disjoint Set Union (DSU) / Union-Find
+* Kruskal's Algorithm
+
+## Data Structures
+* Segment Tree (Point-Range Operations)
+* Segment Tree (Range-Range Operations / Lazy Propagation)
 
 ___
 
